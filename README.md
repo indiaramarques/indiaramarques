@@ -2,7 +2,7 @@
 
 # Sobre mim
 - Analista de Testes Automatizados :star:
-- Mamãe do José e da Maria :dog::dog:
+- Mamãe do José, Maria e Joaquim Abu :dog::dog:
 - Apaixonada por viajar ao mundo. :earth_americas:
 - Sempre em busca de conhecimento. :computer:
 
