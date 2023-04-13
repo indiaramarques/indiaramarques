@@ -1,9 +1,7 @@
-### Olá galera! 👋
+### Olá galera!  👋
 
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer+at+25Friday;From+%F0%9F%87%A7%F0%9F%87%B7+|+Living+in+%F0%9F%87%B5%F0%9F%87%B9;)](https://git.io/typing-svg) Analista de Testes Automatizados 
-<div>
 # Sobre mim
+- Analista de Testes Automatizados :star:
 - Mãe do José e da Maria :dog::dog:
 - Apaixonada por viajar ao mundo. :earth_americas:
 - Sempre em busca de conhecimento. :computer:
