@@ -1,4 +1,4 @@
-### Olá galera!  👋
+### Olá galera, sejam bem vindos!  👋
 
 # Sobre mim
 - Analista de Testes Automatizados :star:
